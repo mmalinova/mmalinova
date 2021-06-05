@@ -10,11 +10,11 @@ About me:
 ### Connect with me:
 <p>
   <a href="https://www.facebook.com/mihaela.malinova.98/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="facebook" height = 20px width = 20px>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="facebook img" height = 30px width = 30px>
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+  <a href="https://www.instagram.com/mihaellamalinova/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram img" height = 30px width = 30px>
+  </a> &nbsp; 
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mmalinova&theme=midnight-purple&show_icons=true&count_private=true)
