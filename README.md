@@ -5,7 +5,6 @@ About me:
 - 🔭 I’m currently working on my thesis for graduation at Technical University of Sofia, Plovdiv branch.
 - 🌱 I’m currently learning Java Database with Spring,Spring Boot and Hibernate.
 - 👯 I’m looking to collaborate with software developer teams.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mihaela-malinova-72352319a/">@MihaelaMalinova</a> 
 
 ### Connect with me:
 <p>
@@ -15,9 +14,8 @@ About me:
   <a href="https://www.instagram.com/mihaellamalinova/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram img" height = 30px width = 30px>
   </a> &nbsp; 
-  </a> &nbsp; 
   <a href="https://www.linkedin.com/in/mihaela-malinova-72352319a/">
-    <img src="https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png" alt="linkedin img" height = 30px width = 30px>
+    <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/linkedin-512.png" alt="linkedin img" height = 30px width = 30px>
   </a> &nbsp; 
 </p>
 
