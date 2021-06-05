@@ -10,7 +10,7 @@ About me:
 ### Connect with me:
 <p>
   <a href="https://www.facebook.com/mihaela.malinova.98/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFacebook_icon.svg&psig=AOvVaw25v4M1vGtZafWE8QB5iW0l&ust=1622987306091000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiQmILRgPECFQAAAAAdAAAAABAD" alt="facebook"> Facebook
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1024px-Facebook_icon.svg.png" alt="facebook">
   </a> &nbsp; 
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
