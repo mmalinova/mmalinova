@@ -17,6 +17,11 @@ About me:
   </a>
 </p>
 
+<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" / href="https://youtube.com/">
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mmalinova&theme=midnight-purple&show_icons=true&count_private=true)
 <!--
 **mmalinova/mmalinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
