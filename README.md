@@ -9,8 +9,8 @@ About me:
 
 ### Connect with me:
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://www.facebook.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://www.facebook.com/mihaela.malinova.98/" alt="facebook"> Facebook 
   </a> &nbsp; 
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
