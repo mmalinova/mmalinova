@@ -2,8 +2,8 @@
 
 About me:
 
-- 🔭 I’m currently working on my thesis for graduation at Technical University of Sofia, Plovdiv branch.
-- 🌱 I’m currently learning Java Database with Spring,Spring Boot and Hibernate.
+- 🔭 I’m currently working as Software Engineer at Broadcom Inc.
+- 🌱 I’m currently learning Java Web with Spring.
 - 👯 I’m looking to collaborate with software developer teams.
 
 ### Connect with me:
