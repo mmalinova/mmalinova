@@ -2,9 +2,9 @@
 
 About me:
 
-- 🔭 I’m currently working as Software Engineer at Broadcom Inc.
-- 🌱 I’m currently learning Java Web with Spring.
-- 👯 I’m looking to collaborate with software developer teams.
+- 🔭 I’m currently opened for a new Opportunities/Chalenges.
+- 🌱 I’m currently learning Java Web with Spring framework.
+- 👯 I’m looking to collaborate with Software developer teams.
 
 ### Connect with me:
 <p>
