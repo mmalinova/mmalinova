@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Mihaela!
 
 About me:
-
-- 🔭 I’m currently opened for a new Opportunities/Chalenges.
-- 🌱 I’m currently learning Java Web with Spring framework.
 - 👯 I’m looking to collaborate with Software developer teams.
 
 ### Connect with me:
